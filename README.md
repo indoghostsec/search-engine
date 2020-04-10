@@ -29,11 +29,7 @@ $ pkg install git
 
 $ git clone https://github.com/indoghostsec/search-engine
 
-$ pip2 install requests
-
-$ pip2 install mechanize
-
-$ pip2 install google
+$ pip2 install -r requirement.txt
 
 $ cd search-engine
 
