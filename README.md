@@ -4,13 +4,10 @@ Search Engine For SQLi vulnrability<br>
 
 <a href="https://github.com/indoghostsec"><img alt="Language" src="https://img.shields.io/badge/Language-Python-brightgreen"/></a>
 
-<a href="https://github.com/indoghostsec"><img alt="dependencies" src="https://img.shields.io/badge/Dependencies-Python%20Search%20Engine-lightgrey"/></a>
+<a href="https://github.com/indoghostsec"><img alt="dependencies" src="https://img.shields.io/badge/Type Tools-Python%20Search%20Engine-lightgrey"/></a>
 
 
 -----------------------------------
-type : Google search engine
-
-language : python 2.7
 
 author : suhandighost
 
