@@ -1,2 +1,2 @@
-# is:open label:"SQLi vulnrability" 
+# SQLi vulnrability
 Search Engine For SQLi vulnrability
