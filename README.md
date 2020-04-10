@@ -1,12 +1,6 @@
 # SQLi vulnrability
 Search Engine For SQLi vulnrability
-<p align="center">
-
-  <a><br> WEBTOOLKIT </br></a>
-
-  <img src="images/webtoolkit.jpg" width="640" title="webtoolkit">
-
-</p>
+<a href="https://github.com/indoghostsec"><img alt="Language" src="https://img.shields.io/badge/Language-Python-brightgreen"/></a>
 -----------------------------------
 type : Google search engine
 
