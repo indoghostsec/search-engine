@@ -6,9 +6,7 @@ Search Engine For SQLi vulnrability<br>
 
 <a href="https://github.com/indoghostsec"><img alt="dependencies" src="https://img.shields.io/badge/Dependencies-Python%20Search%20Engine-lightgrey"/></a>
 
-<a href="https://youtube.com/Sumatera-2003-Utara"><img alt="Youtube" src="https://img.shields.io/badge/Youtub-IGS-orange"/></a><br>
 
-<a href="https://instagram.com/imdoghos.sec"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-indoghoc.sec-orange"/></a>
 -----------------------------------
 type : Google search engine
 
